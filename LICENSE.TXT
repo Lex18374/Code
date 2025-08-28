@@ -1,0 +1,6 @@
+\f0\fs24 \cf0 Copyright (c) 2025 Lex Zwakenberg\
+\
+This code is shared for the sole purpose of evaluating technical capabilities during a job application process. \
+\
+It may not be copied, modified, distributed, or used for any other purpose without explicit written permission from the author.\
+}
