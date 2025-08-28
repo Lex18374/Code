@@ -11,7 +11,9 @@ All required Python packages are listed in the README below.
 # Backend/Frontend
 start backend (Transcription_model.py) with: uvicorn Transcription_model:app --reload
 
-frontend: node modules was not uploaded due to its size. Use npm install
+frontend: node modules was not uploaded due to its size. 
+Use npm install
+
 start frontend react app (npm start)
 
 
