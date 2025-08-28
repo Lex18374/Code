@@ -1,0 +1,16 @@
+name: transcribe
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - torchaudio
+  - sounddevice
+  - pip:
+      - faster-whisper
+      - speechbrain
+      - fastapi
+      - uvicorn
+      - websockets
