@@ -1,4 +1,4 @@
-# Real-Time Transcription & Speaker Diarization
+# Real-Time Local Transcription & Speaker Diarization
 This project provides a real-time speech transcription and speaker diarization system using a FastAPI backend (Python) and a modern React frontend.
 
 # Create environment:
